@@ -1,0 +1,9 @@
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.Infrastructure\bin\Debug\netcoreapp2.2\TVMaze.Infrastructure.deps.json
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.Infrastructure\bin\Debug\netcoreapp2.2\TVMaze.Infrastructure.dll
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.Infrastructure\bin\Debug\netcoreapp2.2\TVMaze.Infrastructure.pdb
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.Infrastructure\obj\Debug\netcoreapp2.2\TVMaze.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.Infrastructure\obj\Debug\netcoreapp2.2\TVMaze.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.Infrastructure\obj\Debug\netcoreapp2.2\TVMaze.Infrastructure.AssemblyInfo.cs
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.Infrastructure\obj\Debug\netcoreapp2.2\TVMaze.Infrastructure.dll
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.Infrastructure\obj\Debug\netcoreapp2.2\TVMaze.Infrastructure.pdb
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.Infrastructure\obj\Debug\netcoreapp2.2\TVMaze.Infrastructure.csprojAssemblyReference.cache
