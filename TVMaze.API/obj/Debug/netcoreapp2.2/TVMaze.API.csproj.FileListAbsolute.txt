@@ -1,0 +1,17 @@
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.API\bin\Debug\netcoreapp2.2\TVMaze.API.deps.json
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.API\bin\Debug\netcoreapp2.2\TVMaze.API.runtimeconfig.json
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.API\bin\Debug\netcoreapp2.2\TVMaze.API.runtimeconfig.dev.json
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.API\bin\Debug\netcoreapp2.2\TVMaze.API.dll
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.API\bin\Debug\netcoreapp2.2\TVMaze.API.pdb
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.API\bin\Debug\netcoreapp2.2\TVMaze.Infrastructure.dll
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.API\bin\Debug\netcoreapp2.2\TVMaze.Infrastructure.pdb
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.API\obj\Debug\netcoreapp2.2\TVMaze.API.csprojAssemblyReference.cache
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.API\obj\Debug\netcoreapp2.2\TVMaze.API.csproj.CoreCompileInputs.cache
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.API\obj\Debug\netcoreapp2.2\TVMaze.API.RazorAssemblyInfo.cache
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.API\obj\Debug\netcoreapp2.2\TVMaze.API.RazorAssemblyInfo.cs
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.API\obj\Debug\netcoreapp2.2\TVMaze.API.AssemblyInfoInputs.cache
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.API\obj\Debug\netcoreapp2.2\TVMaze.API.AssemblyInfo.cs
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.API\obj\Debug\netcoreapp2.2\TVMaze.API.RazorTargetAssemblyInfo.cache
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.API\obj\Debug\netcoreapp2.2\TVMaze.API.csproj.CopyComplete
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.API\obj\Debug\netcoreapp2.2\TVMaze.API.dll
+C:\Users\G984759\source\repos\TVMaze.API\TVMaze.API\obj\Debug\netcoreapp2.2\TVMaze.API.pdb
